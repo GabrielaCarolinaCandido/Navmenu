@@ -1,0 +1,12 @@
+ #nav-content{
+    background-color: #f00;
+}
+ #ul-content{
+    list-style: none;
+    display: flex; 
+    width: 30%;
+}
+ #li-content{
+    color:#fff;
+    padding:30px;
+}
